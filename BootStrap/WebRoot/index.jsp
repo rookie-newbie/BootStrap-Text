@@ -75,7 +75,7 @@ div.col-md-4 img {
             <p><a class="btn btn-primary" href="#">了解更多&raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>我们的历史</h2>    
+            <h2>我们的历史</h2>    1231313123
             <p><img src="images/bg1.png"></p>
             <p><a class="btn btn-primary" href="#">了解更多&raquo;</a></p>
         </div>
